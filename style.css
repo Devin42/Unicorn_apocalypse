@@ -6,5 +6,13 @@ h1{
 }
 
 p{
-  margin-right: 600px;
+  width: 500px;
+}
+
+.first_image{
+  width: 350px;
+  height: 175px;
+  position: relative;
+  left: 800px;
+  bottom: 160px;
 }
